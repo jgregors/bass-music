@@ -27,23 +27,23 @@
 		}
 
 		\repeat volta 16 {
-			e''16 |
-			e8. f16 e d cis b a(g32 a bes16) a g f e f 
-			g(f) e(d) f' a, bes d, c(g' bes) ees a, c f ees |
-			d a bes d ees, g a b c d ees c \tuplet 3/2 8 { a'[(g fis)] g[(fis e)] } |
-			fis(c32 d ees16) d c(bes32 a d16) c bes(c32 d ees16) g a,(bes32 c d16) f |
-			g,(a32 bes c16) ees f,(g32 a bes16) d ees, g'32(f ees16) c32(bes a16) c32(bes a16) fis32(e |
-			d16) fis(a c) \tuplet 3/2 8 { ees[(d c )] fis[(e d)] } bes'(a32 g fis16) g \tuplet 3/2 8 { bes,[(c d)] c[(bes a)] } |		 
-			g8. a16 bes c d f, e c e g bes(e32 f g16) bes, |
-			a f a c f a, g f c g' c d e bes a g |
-			f d f a d f, e d a e' a b c g f ees |
-			d bes d f bes a g f e'(f32 g f16) e d(c bes) g' |
-			a,32(g f e f16) bes, c e g a bes(a) g(f) a' e f d |
-			b(d f) a g e cis g' d,(a' cis) g' f cis d bes|
-			g(bes d) f ees c a ees' bes,(f' a) ees' d a bes g |
-			e(g bes) d c a fis c' bes a g f ees d ees g |
-			bes(a bes) ees g(fis g) bes cis,(a32 b cis16) e g, bes32(a g16) f32(e |
-			f16) a32(g f16) e32(d a16) e' d' cis < d, d' >4. r16  
+			e''16-2 |
+			e8.-2 f16-4 e-2 d-4 cis-2 b-4 a-1(g32-0 a-2 bes16-4) a-2 g-0 f-2 e-1 f-2 |
+			g-0(f-4) e-2(d-0) f'-4 a,-1 bes-2 d,-0 c-1^\markup {\teeny "IV"}(g'-4 bes-2) ees-2 a,-1 c-4 f-4 ees-2 |
+			d-1 a-1 bes-2 d-1 ees,-2 g-1 a-4 b-1 c-2 d-2 ees-3 c\thumb \tuplet 3/2 8 { a'-3[(g-1 fis-1)] g-2[(fis-1 e\thumb)] } |
+			fis-1(c32\thumb d-1 ees16-2) d-1 c-4(bes32-2 a-1 d16-1) c-4 bes-1(c32-4 d-1 ees16-2) g-3\flageolet a,-1(bes32-2 c-4 d16-1) f-4 |
+			g,-0(a32-1 bes-2 c16-4) ees-1 f,-1(g32-4 a-1 bes16-2) d-1 ees,-2 g'32-3\flageolet(f-4 ees16-1) c32-4^\markup { \teeny "II"} (bes-2 a16-1) c32-4^\markup { \teeny "II"}(bes-2 a16-1) fis32-4(e-1 |
+			d16-0) fis-4(a-1 c-4) \tuplet 3/2 8 { ees-2[(d-1 c-2^\markup { \teeny "II"} )] fis-4^\markup { \teeny "I"}[(e-1 d\thumb \flageolet)] } bes'-2(a32-1 g-2 fis16-1) g-2 \tuplet 3/2 8 { bes,-1[(c-1 d-4)] c-1[(bes-2 a-1)] } |		 
+			g8.-0 a16-1 bes-2 c-1 d-4 f,-2 e-1 c-2 e-1 g-0 bes-1(e32-2 f-4 g16-3 \flageolet) bes,-2 |
+			a-1 f-2 a-1 c-4 f-4 a,-1 g-4 f-1 c-1 g'-4 c-4 d-1 e-4 bes-2 a-1 g-4 |
+			f-1 d-0 f-1 a-4 d-4 f,-2 e-1 d-0 a-0 e'-1 a-1 b-2 c-4 g-0 f-4 ees-1 |
+			d-0 bes-1 d-0 f-4 bes-4 a-2 g-0 f-4 e'-2(f32-1 g-3 f16-1) e\thumb d-3(c-1 bes\thumb) g'-3 \flageolet |
+			a,32-2(g-0 f-4 e-2 f16-4) bes,-4 c-4 e-2 g-0 a-2 bes-4(a-2) g-0(f-2) a' \thumb \flageolet e-1 f-2 d \thumb |
+			b-1(d \thumb f-2) a\thumb \flageolet g-3 \flageolet e\thumb cis-2 g'-3 \flageolet d,-0(a'-3\flageolet cis-2) g'-3 \flageolet f-1 cis-2 d-3 \flageolet bes-2|
+			g-0(bes-2 d-1) f-4 ees-1 c-4 a-1 ees'-2 bes,-1^\markup { \teeny "IV"}(f'-4 a-2) ees'-2 d-1 a-1 bes-2 g-1 |
+			e-2(g-1 bes-4) d-2 c-1 a-4 fis-1 c'-2 bes-4 a-2 g-0 f-4 ees-1 d-0 ees-1 g-0 |
+			bes-4(a-2 bes-4) ees-2 g-3 \flageolet(fis-2 g\thumb \flageolet) bes-2 cis,\thumb(a32-1 b-3 cis16\thumb) e-3 g,-0 bes32-4(a-2 g16-0) f32-4(e-2 |
+			f16-4) a32-2(g-0 f16-4) e32-2(d-0 a16-0) e'-2 d'-4 cis-2 < d,-0 d'-4 >4. r16  
 		}
 	}
 }
